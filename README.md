@@ -1,25 +1,26 @@
-# Play - Free HTML Template for Startup, Apps and SaaS
+# **Cyan Cloud Systems**
 
-Play is an open-source and free bootstrap 5 based HTML template created by the UIdeck team. It's a part of our new initiative to give back to the community and create some impactful open source projects.
+Welcome to the official GitHub repository for Cyan Cloud Technologies. We are a team of tech enthusiasts, designers, and entrepreneurs building innovative software solutions like Practice Management Systems, Automation Tools, and AI-powered Analytics. Our mission is to empower businesses through scalable, customizable, and intelligent technology solutions.
 
-This template is designed and developed in such a way so, that almost anyone can use it for almost any kind of website or landing pages such as SaaS, Startup, Business, Apps, Software and Agency, etc.
+---
 
-Play comes with all essential sections and elements a complete website needs, additionally, we also created some separate pages including blogs, login, 404, and some other essential pages from homepage sections.
+## **About Cyan Cloud Systems**
 
-### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components (design)
+At Cyan Cloud Technologies, we specialize in developing software that enhances efficiency and drives growth for businesses across various industries. Our products are tailored to meet the needs of healthcare providers, retail businesses, IT firms, and many others. We combine the power of automation, AI, and cloud computing to offer cutting-edge solutions.
 
+---
 
-### [🚀 View Demo](https://preview.uideck.com/items/play-bootstrap/)
+## **Solutions We Provide**
 
-### [⬇️ Download Now](https://links.uideck.com/play-bootstrap-download)
+- **Practice Management Systems**: Streamline patient scheduling, billing, and record management for healthcare practices.
+- **Automation Tools**: Automate routine tasks, allowing businesses to optimize workflows and reduce manual effort.
+- **AI Analytics and Reporting**: Gain actionable insights with AI-driven data analysis and reporting tools.
+- **Custom Software Solutions**: Tailored software that fits your unique business requirements.
 
-[![playbootstrap-demo](https://uideck.com/wp-content/uploads/2021/09/play-bootstrap.jpg)](https://preview.uideck.com/items/play-bootstrap/)
+## **Contact Us**
 
+If you have any questions or need support, feel free to reach out:
 
-
-## 📃 License
-Play is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
-
-## 💙 Support
-You can always support this project by [Starring🌟 This Repository](https://github.com/uideck/play-bootstrap) 
-and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
+- **Email**: contact@cyancloudtech.com
+- **Website**: [cyancloudtechnologies.com](https://www.cyanlandingpage.vercel.app)
+- **LinkedIn**: [Cyan Cloud Technologies](https://www.linkedin.com/company/cyan-cloud-systems/?viewAsMember=true)

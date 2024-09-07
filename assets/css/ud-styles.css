@@ -1464,6 +1464,7 @@ p {
 
 /* ===== Footer CSS ===== */
 .ud-footer {
+  width: 100%;
   background: var(--heading-color);
   padding-top: 100px;
   position: relative;
@@ -1577,8 +1578,12 @@ p {
 }
 
 .ud-footer-bottom {
+  width: 100%;
   padding: 35px 0;
   border-top: 1px solid rgba(136, 144, 164, 0.43);
+}
+.ud-footer-widgets {
+  width: 100%; /* Ensure it is full width */
 }
 
 .ud-footer-bottom .ud-footer-bottom-left {
